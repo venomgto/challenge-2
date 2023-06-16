@@ -6,7 +6,10 @@
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+![Screenshot 2023-06-15 at 9 43 40 PM (2)](https://github.com/venomgto/challenge-2/assets/95735342/2c73620d-8757-42e1-9fee-c52da61f59b7)
+
+![Screenshot 2023-06-15 at 9 45 24 PM (2)](https://github.com/venomgto/challenge-2/assets/95735342/42c1af04-55c3-4630-b18e-bf3ae8f60636)
+
 
 - [Installation](#installation)
 - [Usage](#usage)
